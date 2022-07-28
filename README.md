@@ -1,9 +1,14 @@
-### Hi there 👋
+# Hi there 👋 Welcome to Owen's GitHub 🦉
+### Please also feel free to checkout my [Linkedin profile](https://www.linkedin.com/in/owen-d/)
+and [Steam profile](https://steamcommunity.com/id/owenoool/) as well 🎮
 
-### Project Web
-- [Fast robot](https://qd39l.github.io/fast-robots/)
-- [HPP Particle Simulation on FPGA](https://qd39l.github.io/HPP-cellular-automaton-FPGA/index.html)
-- [Dumb microcontroller class](https://qd39l.github.io/intelligent-physical-system/)
+# My projects
+I'm only listing projects that are available on my GitHub. Please check my Linkedin for a more comprehensive list.
+1. [Fast robot (2022)](https://qd39l.github.io/fast-robots/)
+
+2. [HPP Particle Simulation on FPGA (2022)](https://qd39l.github.io/HPP-cellular-automaton-FPGA/index.html)
+
+3. [A robot car from a microcontroller class (2021)](https://qd39l.github.io/intelligent-physical-system/)
 
 <!--
 **qd39l/qd39l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
