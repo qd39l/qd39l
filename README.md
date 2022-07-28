@@ -1,4 +1,5 @@
 # Hi there 👋 Welcome to Owen's GitHub 🦉
+### My [personal page](https://qd39l.github.io/)
 ### Please also feel free to checkout my [Linkedin profile](https://www.linkedin.com/in/owen-d/)
 and [Steam profile](https://steamcommunity.com/id/owenoool/) as well 🎮
 
