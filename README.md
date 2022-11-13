@@ -1,10 +1,17 @@
 # Hi there 👋 Welcome to Owen's GitHub 🦉
-### My [personal page](https://qd39l.github.io/)
+
 ### Please also feel free to checkout my [Linkedin profile](https://www.linkedin.com/in/owen-d/)
-and [Steam profile](https://steamcommunity.com/id/owenoool/) as well 🎮
+and [Steam profile](https://steamcommunity.com/id/owenoool/) 🎮
 
 # My projects
-I'm only listing projects that are available on my GitHub. Please check my Linkedin for a more comprehensive list.
+I'm only listing projects that are (or will be) available on my GitHub. Please check my Linkedin for a more comprehensive list.
+
+### Digital Otamatone (2022, ongoing)
+
+Otamatone but digital...
+
+### Stereo camera via HLS (2022, ongoing)
+
 ### Fast robot (2022)
 [[web](https://qd39l.github.io/fast-robots/) | [demo video](https://youtu.be/MGXwT600lhQ)]
 
