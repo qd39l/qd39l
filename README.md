@@ -6,11 +6,10 @@ and [Steam profile](https://steamcommunity.com/id/owenoool/) 🎮
 # My projects
 I'm only listing projects that are (or will be) available on my GitHub. Please check my Linkedin for a more comprehensive list.
 
-### Digital Otamatone (2022, ongoing)
-
-Otamatone but digital...
-
 ### Stereo camera via HLS (2022, ongoing)
+
+### Digital Otamatone (2022)
+[[web](https://qd39l.github.io/digital-otamatone-web/) | [demo video (not yet available)]()]
 
 ### Fast robot (2022)
 [[web](https://qd39l.github.io/fast-robots/) | [demo video](https://youtu.be/MGXwT600lhQ)]
