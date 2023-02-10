@@ -10,7 +10,7 @@ Only listing projects that are (or will be) available on GitHub. Please check my
 [[presentation recording](https://youtu.be/_zIqhIqTxRY)]
 
 ### Digital Otamatone (2022)
-[[web](https://qd39l.github.io/digital-otamatone-web/) | [demo video (not yet available)]()]
+[[web](https://qd39l.github.io/digital-otamatone-web/) | [demo video](https://youtu.be/VtQSLCoaeEI)]
 
 ### Fast robot (2022)
 [[web](https://qd39l.github.io/fast-robots/) | [demo video](https://youtu.be/MGXwT600lhQ)]
